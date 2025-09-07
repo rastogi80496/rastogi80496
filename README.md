@@ -1,3 +1,4 @@
+![logo](https://github.com/rastogi80496/rastogi80496/blob/main/Cover%20Photo.jpg)
 <h1 align="center">Hi 👋,  I'm Aditya Shivam Rastogi</h1>
 <h3 align="center">From DSA to web dev — coding my journey one commit at a time</h3>
 
