@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **web development (React, Node.js) and problem-solving with C++.**
 
-- 👨‍💻 All of my projects are available at my Portfolio htpps://rastogi8049-portfolio.netlify.app
+- 👨‍💻 All of my projects are available at my Portfolio https://rastogi8049-portfolio.netlify.app
 
 - 💬 Ask me about **debugging nightmares 💀 and how I survived them.**
 
