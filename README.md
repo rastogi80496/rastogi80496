@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adityarastogi929@gmail.com**
 
-- 📄 Know about my experiences / My Resume [https://drive.google.com/file/d/1EjWrsyRZ4CLop3cr-azZhtsbTOKyHR5j/view?usp=drive_link](https://drive.google.com/file/d/1EjWrsyRZ4CLop3cr-azZhtsbTOKyHR5j/view?usp=drive_link)
+- 📄 Know about my experiences / My Resume [https://drive.google.com/file/d/16fduZKINOr4wDWQX0CT2w-kxVVt72tLH/view?usp=drive_link)
 
 - ⚡ Fun fact **I write cleaner code after midnight 🌙**
 
